@@ -1,0 +1,16 @@
+* {
+  background: #212121;
+}
+
+.gallery {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.gallery-videos {
+  margin: 10px;
+}
+
+video {
+  box-shadow: 0 12px 40px -12px rgba(56,40,77,.3);
+}
